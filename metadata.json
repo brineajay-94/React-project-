@@ -1,0 +1,5 @@
+{
+  "name": "Firebase Admin Dashboard",
+  "description": "A React web application for managing and displaying items from a Firebase Firestore database. Features include an admin panel for CRUD operations on items and categories, real-time data updates, pagination, and a modern UI.",
+  "requestFramePermissions": []
+}
